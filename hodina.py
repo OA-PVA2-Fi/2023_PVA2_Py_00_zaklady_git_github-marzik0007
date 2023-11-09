@@ -1,2 +1,2 @@
-První řádek kodu
-Změna
+Prvni radek kodu
+Zmena
